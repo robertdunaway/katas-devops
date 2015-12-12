@@ -5,6 +5,9 @@ Use standards and guidelines as references for katas.
 Use interview questions for katas.
 
 
+Switching features on/off to support continuous delivery.
+Set up continuous deployment with Azure Web and Github.
+Using tools like Gulp and Powershell for devops.
 
 
 
